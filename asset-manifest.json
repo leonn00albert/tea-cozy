@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/tea-cozy/static/css/main.51e0b9b0.chunk.css",
+    "main.js": "/tea-cozy/static/js/main.8a17396c.chunk.js",
+    "main.js.map": "/tea-cozy/static/js/main.8a17396c.chunk.js.map",
+    "runtime-main.js": "/tea-cozy/static/js/runtime-main.32e0deac.js",
+    "runtime-main.js.map": "/tea-cozy/static/js/runtime-main.32e0deac.js.map",
+    "static/js/2.0b8e7e9e.chunk.js": "/tea-cozy/static/js/2.0b8e7e9e.chunk.js",
+    "static/js/2.0b8e7e9e.chunk.js.map": "/tea-cozy/static/js/2.0b8e7e9e.chunk.js.map",
+    "static/js/3.7ceb668e.chunk.js": "/tea-cozy/static/js/3.7ceb668e.chunk.js",
+    "static/js/3.7ceb668e.chunk.js.map": "/tea-cozy/static/js/3.7ceb668e.chunk.js.map",
+    "index.html": "/tea-cozy/index.html",
+    "static/css/main.51e0b9b0.chunk.css.map": "/tea-cozy/static/css/main.51e0b9b0.chunk.css.map",
+    "static/js/2.0b8e7e9e.chunk.js.LICENSE.txt": "/tea-cozy/static/js/2.0b8e7e9e.chunk.js.LICENSE.txt",
+    "static/media/img-bedford-bizarre.85d2bfaa.jpg": "/tea-cozy/static/media/img-bedford-bizarre.85d2bfaa.jpg",
+    "static/media/img-berryblitz.3d7dee22.jpg": "/tea-cozy/static/media/img-berryblitz.3d7dee22.jpg",
+    "static/media/img-donut.3e7e31f0.jpg": "/tea-cozy/static/media/img-donut.3e7e31f0.jpg",
+    "static/media/img-locations-background.28762c24.jpg": "/tea-cozy/static/media/img-locations-background.28762c24.jpg",
+    "static/media/img-mission-background.f7b06053.jpg": "/tea-cozy/static/media/img-mission-background.f7b06053.jpg",
+    "static/media/img-myrtle-ave.a79771ca.jpg": "/tea-cozy/static/media/img-myrtle-ave.a79771ca.jpg",
+    "static/media/img-spiced-rum.254b8ceb.jpg": "/tea-cozy/static/media/img-spiced-rum.254b8ceb.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.32e0deac.js",
+    "static/js/2.0b8e7e9e.chunk.js",
+    "static/css/main.51e0b9b0.chunk.css",
+    "static/js/main.8a17396c.chunk.js"
+  ]
+}
